@@ -42,7 +42,7 @@
 
 ####  `*목록을 확인`
 
-![Alt text](Gitr_update%20and%20delete.assets/0316.PNG)
+![screenshot](Git_update%20and%20delete.assets/0316-1615910168326.PNG)
 
 원하는 상태로 목록이 정리되었다. 지우기 전 목록은 캡처를 못 떠서 없다ㅠ 대신 2줄에 있는 01_Github_TIL_.md의 파일명을 변경해보기~
 
@@ -101,7 +101,7 @@
 
 #### `* 목록 확인(1)`
 
-![Alt text](Gitr_update%20and%20delete.assets/0317_1.PNG)
+![screenshot](Git_update%20and%20delete.assets/0317_1-1615910186402.PNG)
 
 
 
@@ -109,7 +109,7 @@
 
 
 
-##### ![Alt text](Gitr_update%20and%20delete.assets/0317_2.PNG)
+##### ![](Git_update%20and%20delete.assets/0317_2.PNG)
 
 
 
@@ -129,7 +129,7 @@
 
 #### `* 목록 확인(2)`
 
-![Alt text](Gitr_update%20and%20delete.assets/0317_3.PNG)
+![](Git_update%20and%20delete.assets/0317_3.PNG)
 
 원하는 목록으로 정리 끝~!!
 
