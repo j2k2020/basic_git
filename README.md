@@ -74,34 +74,8 @@
 
 ### 2. commit 취소하기
 
->* "git restore <file>..."
->
->```shell
->$ git add *    //모든 파일 add
->
->$ git status   //git 현재 상태 확인
->On branch master
->Changes to be committed:
->  (use "git restore --staged <file>..." to unstage)
->        modified:   README.md
->        modified:   addTest.md
->        modified:   commitTest.md    //총 3개의 파일이 add상태로 올라가있다.
->
->$ git commit -m "together"
->[master e239eb5] together
-> 3 files changed, 102 insertions(+), 4 deletions(-)
-> rewrite README.md (85%)
->
->$ git status     //정상적으로 커밋이 됨.
->On branch master
->nothing to commit, working tree clean
->
->
->```
->
->
->
->
+>* "git restore <file>..." : <선택파일>의 commit을 취소하고 되돌린다
+>* $ git reset HEAD^  :  가장 최근의 commit을 취소하고 되돌린다
 
 
 
